@@ -8,7 +8,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Psycho649/teamlight)
 ---
 
-Telelight 2.0 is a Extralight lightweight Telegram Desktop Client Made using [Neutralino](https://neutralino.js.org) for Windows. Its Predecessor is [telelight](https://github.com/Psycho649/telelight/). 
+Telelight 2.0 is a Extralight lightweight Microsoft Teams Desktop Client Made using [Neutralino](https://neutralino.js.org) for Windows. Its Predecessor is [telelight](https://github.com/Psycho649/telelight/). 
 
 ---
 
