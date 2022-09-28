@@ -1,4 +1,4 @@
-# Telelight V2.0
+# Teamlight
 [![GitHub issues](https://img.shields.io/github/issues/Psycho649/teamlight)](https://github.com/Psycho649/teamlight/issues)
 ![GitHub watchers](https://img.shields.io/github/watchers/Psycho649/teamlight?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/Psycho649/teamlight?style=social)
@@ -8,7 +8,7 @@
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Psycho649/teamlight)
 ---
 
-Telelight 2.0 is a Extralight lightweight Microsoft Teams Desktop Client Made using [Neutralino](https://neutralino.js.org) for Windows. Its Predecessor is [telelight](https://github.com/Psycho649/telelight/). 
+Teamlight is a Extralight lightweight Microsoft Teams Desktop Client Made using [Neutralino](https://neutralino.js.org) for Windows.
 
 ---
 
